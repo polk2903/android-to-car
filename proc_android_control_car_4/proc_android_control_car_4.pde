@@ -53,7 +53,7 @@ void setup()
 //--------------------------------------------------------------
 
 int lastSec=59;
-boolean pressedUp=false, pressedDown=false;
+boolean pressedUp=false, pressedDown=false, pressedSpace=false;
 
 void draw()
 {
